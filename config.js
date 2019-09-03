@@ -7,7 +7,7 @@ module.exports = {
 
 
     // Your primary Twilio Account SID
-    accountSid: 'C6a2d473c0a0480cf96cdb8bfa847e774',
+    accountSid: 'AC6a2d473c0a0480cf96cdb8bfa847e774',
 
     // API Key/Secret Pair - generate a pair in the console
     apiKey: 'SK0238f877b79e3f2c4096bea2900ce76b',
